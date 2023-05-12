@@ -76,3 +76,25 @@ tests/issue-261.gltf
 !examples/raytrace/cornellbox_suzanne.obj
 !tests/Makefile
 !tools/windows/premake5.exe
+
+# dubtcs added
+.git/
+.github/
+cmake/
+deps/
+examples/
+experimental/
+models/
+tests/
+tools/
+wasm/
+.clang-format
+.travis.yaml
+.travis-before-install.sh
+appveyor.yml
+CMakeLists.txt
+examples.bat
+loader_example.cc
+MakeFile
+test_runner.py
+vcssetup.bat
